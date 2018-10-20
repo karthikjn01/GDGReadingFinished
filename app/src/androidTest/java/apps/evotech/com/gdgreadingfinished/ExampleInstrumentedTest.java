@@ -1,4 +1,4 @@
-package apps.evotech.com.gdgreading;
+package apps.evotech.com.gdgreadingfinished;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
